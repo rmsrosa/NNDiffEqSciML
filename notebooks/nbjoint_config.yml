@@ -19,7 +19,7 @@ navigators:
 
 badges:
   - title: View in NBViewer
-    url: https://nbviewer.jupyter.org/github/rmsrosa/nbjoint/blob/master/sciml_notes
+    url: https://nbviewer.jupyter.org/github/rmsrosa/NNDiffEqSciML/blob/main/notebooks
     label: view in
     message: nbviewer
     color: orange
