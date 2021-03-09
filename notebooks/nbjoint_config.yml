@@ -1,0 +1,25 @@
+# Configuration file for the python module NBJoint for the machinelearning_notes
+
+version: 0.13a
+
+path_to_notes: .
+
+contents:
+  toc_nb_name: 00.00-Frente.ipynb
+  toc_title: Sumário
+  show_index_in_toc: True
+
+header: "*Aprendizado Científico de Máquina: notas sobre aprendizado de máquina e equações diferenciais universais, em um contexto de computação científica. [- Ricardo M. S. Rosa (IM/UFRJ)](http://www.im.ufrj.br/rrosa)*"
+
+navigators:
+  core_navigators:
+    - 00.00-Frente.ipynb
+  show_nb_title_in_nav: True
+  show_index_in_nav: True
+
+badges:
+  - title: View in NBViewer
+    url: https://nbviewer.jupyter.org/github/rmsrosa/nbjoint/blob/master/sciml_notes
+    label: view in
+    message: nbviewer
+    color: orange
