@@ -1,6 +1,14 @@
-# NNDiffEqSciML
+# Redes neurais, equações diferenciais e aprendizado científico de máquina
 
-Notas sobre Redes Neurais, Equações Diferenciais e Aprendizado Científico de Máquina (Scientific Machine Learning).
+[![Text License: CC-BY-NC-ND license](https://img.shields.io/badge/Text%20License-CC--BY--NC--ND-yellow.svg)](https://opensource.org/licenses/MIT) [![Code License: GNU-GPLv3](https://img.shields.io/badge/Code%20License-GNU--GPLv3-yellow.svg)](https://www.gnu.org/licenses/gpl.html) ![GitHub repo size](https://img.shields.io/github/repo-size/rmsrosa/NNDiffEqSciML)
+
+![In development](https://img.shields.io/badge/stage-in%20development-orange)
+
+Notas sobre redes neurais, equações diferenciais e aprendizado científico de máquina *(Scientific Machine Learning)*.
+
+As notas podem ser visualizadas diretamente via NBViewer ou pelo próprio github (e em breve pelo binder):
+
+[![View in NBViewer](https://img.shields.io/badge/view%20in-nbviewer-orange)](https://nbviewer.jupyter.org/github/rmsrosa/NNDiffEqSciML/blob/main/notebooks/00.00-Frente.ipynb) [![Render in github](https://img.shields.io/badge/render%20in-github-green)](https://nbviewer.jupyter.org/github/rmsrosa/NNDiffEqSciML/blob/main/notebooks/00.00-Frente.ipynb) [![Launch  binder](https://mybinder.org/badge.svg)](https://nbviewer.jupyter.org/github/rmsrosa/NNDiffEqSciML/blob/main/notebooks/00.00-Frente.ipynb)
 
 ## Licença
 
