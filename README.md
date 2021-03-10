@@ -8,7 +8,7 @@ Notas sobre redes neurais, equações diferenciais e aprendizado científico de 
 
 As notas podem ser visualizadas diretamente via NBViewer ou pelo próprio github (e em breve pelo binder):
 
-[![View in NBViewer](https://img.shields.io/badge/view%20in-nbviewer-orange)](https://nbviewer.jupyter.org/github/rmsrosa/NNDiffEqSciML/blob/main/notebooks/00.00-Frente.ipynb) [![Render in github](https://img.shields.io/badge/render%20in-github-green)](https://nbviewer.jupyter.org/github/rmsrosa/NNDiffEqSciML/blob/main/notebooks/00.00-Frente.ipynb) [![Launch  binder](https://mybinder.org/badge.svg)](https://nbviewer.jupyter.org/github/rmsrosa/NNDiffEqSciML/blob/main/notebooks/00.00-Frente.ipynb)
+[![View in NBViewer](https://img.shields.io/badge/view%20in-nbviewer-orange)](https://nbviewer.jupyter.org/github/rmsrosa/NNDiffEqSciML/blob/main/notebooks/00.00-Frente.ipynb) [![Render in github](https://img.shields.io/badge/render%20in-github-green)](https://nbviewer.jupyter.org/github/rmsrosa/NNDiffEqSciML/blob/main/notebooks/00.00-Frente.ipynb) [![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rmsrosa/NNDiffEqSciML/main?filepath=notebooks%2F00.00-Frente.ipynb)
 
 ## Licença
 

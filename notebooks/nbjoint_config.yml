@@ -23,3 +23,18 @@ badges:
     label: view in
     message: nbviewer
     color: orange
+  - title: Open in binder
+    url: https://mybinder.org/v2/gh/rmsrosa/NNDiffEqSciML/main?filepath=notebooks
+    src: https://mybinder.org/badge.svg
+  - title: View Slides
+    url: https://nbviewer.jupyter.org/github/rmsrosa/NNDiffEqSciML/blob/main/notebooks/slides
+    extension: .slides.html
+    label: view
+    message: slides
+    color: darkgreen
+    
+exports:
+  - export_path: slides
+    exporter_name: slides
+    exporter_args:
+      reveal_scroll: True
