@@ -17,7 +17,7 @@ A 3.027605014567413 3.027605014567413 0 0 1 17 -9
 L33 -12"
 fill="none" stroke="red" stroke-width="4" stroke-linecap="butt"></path>
   </g>
-</svg> 
+</svg>
 Esta versão ainda é muito preliminar!
 
 &nbsp;
@@ -25,6 +25,9 @@ As notas podem ser visualizadas diretamente via NBViewer ou pelo próprio github
 
 [![View in NBViewer](https://img.shields.io/badge/view%20in-nbviewer-orange)](https://nbviewer.jupyter.org/github/rmsrosa/NNDiffEqSciML/blob/main/notebooks/00.00-Frente.ipynb) [![Render in github](https://img.shields.io/badge/render%20in-github-green)](https://github.com/rmsrosa/NNDiffEqSciML/blob/main/notebooks/00.00-Frente.ipynb) [![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rmsrosa/NNDiffEqSciML/main?filepath=notebooks%2F00.00-Frente.ipynb)
 
+Para abrir o Binder apenas com o diretório inicial do repositório, clique no link abaixo:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rmsrosa/NNDiffEqSciML/main)
 ## Licença
 
 Os **textos** neste repositório estão disponíveis sob a licença [CC-BY-NC-ND license](LICENSE-TEXT). Mais informações sobre essa licença em [Creative Commons Attribution-NonCommercial-NoDerivs 3.0](https://creativecommons.org/licenses/by-nc-nd/3.0/us/legalcode).
